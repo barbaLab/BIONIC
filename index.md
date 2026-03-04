@@ -39,11 +39,3 @@ This workshop addresses the challenge of restoring meaningful sensorimotor integ
 - Prof. Luke Osborn — Case Western Reserve University, USA
 
 [View Workshop Details](https://neuro.embs.org/2025/satellite-workshops/#workshop-8)
-
-
-## Logos / Acknowledgement
-![NATO Logo](assets/images/nato_logo.jpeg)
-
----
-
-© 2025 BIONIC Research Project. All rights reserved.

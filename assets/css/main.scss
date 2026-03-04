@@ -75,3 +75,30 @@
   background: #2563eb;
   color: #fff !important;
 }
+
+.footer-banner {
+  margin: 0 0;
+  text-align: center;
+  order: 2;
+}
+.footer-banner img {
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  display: inline-block;
+}
+
+// .page__footer footer {
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+// }
+
+// .page__footer-follow {
+//   order: 1;
+// }
+
+.page__footer-copyright {
+  order: 3;
+  text-align: center;
+}
